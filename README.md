@@ -1,8 +1,7 @@
 
 # learn-ng
-该仓库用于学习angular使用
 
-# LearnNg
+该仓库用于学习angular使用
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.6.
 
